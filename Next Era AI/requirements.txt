@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+chromadb
+python-dotenv
+pypdf
+pillow
+faiss-cpu
+serper-dev
+PyMuPDF
